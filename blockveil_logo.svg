@@ -1,0 +1,32 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="90 70 332 380">
+  <defs>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff3b3b"/>
+      <stop offset="100%" stop-color="#b30000"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M256 40 
+           L420 110 
+           L390 320 
+           L256 470 
+           L122 320 
+           L92 110 Z"
+        fill="#0d0d0d"
+        stroke="url(#redGrad)"
+        stroke-width="18"/>
+
+  <path d="M256 80 L286 360 L256 430 L226 360 Z"
+        fill="url(#redGrad)"/>
+
+  <path d="M180 180 L210 210 L210 320 L180 290 Z"
+        fill="url(#redGrad)"/>
+  <path d="M332 180 L302 210 L302 320 L332 290 Z"
+        fill="url(#redGrad)"/>
+
+  <path d="M220 250 L240 280 L220 390 L200 330 Z"
+        fill="url(#redGrad)"/>
+  <path d="M292 250 L272 280 L292 390 L312 330 Z"
+        fill="url(#redGrad)"/>
+</svg>
